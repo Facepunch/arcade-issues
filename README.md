@@ -1,6 +1,6 @@
 # arcade-issues
 
-This is the official issue tracker for the (untitled) Arcade project, including peripheral releases such as the BudgetBoy Development Kit. Please make sure you have read the below guide if you have an issue to report.
+This is the official issue tracker for the (untitled) Arcade project, including bug reporting for peripheral releases such as the BudgetBoy Development Kit. Please make sure you have read the below guide if you have an issue to report.
 
 http://www.facepunchstudios.com/category/arcade/
 
