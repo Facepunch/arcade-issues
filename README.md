@@ -6,7 +6,7 @@ http://www.facepunchstudios.com/category/arcade/
 
 ## Reporting BBDK Issues
 
-* Check that you're running the latest version found here: http://54.195.211.223/downloads
+* Check that you're running the latest version found here: http://arcade.facepunch.com/downloads
 * Make sure you've looked at the list of open issues to check that your problem hasn't already been reported.
 * Please provide information about the device you encountered the issue on, particularly your operating system and graphics card model.
 * Provide steps to reproduce the issue whenever possible. Try to keep this as simple as possible.
